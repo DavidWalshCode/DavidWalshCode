@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm David</h1>
-<h3 align="center">A passionate game developer from Ireland</h3>
+<h3 align="center">A passionate game and software developer from Ireland</h3>
 
-- 👨‍💻 All of my projects are available at [https://davidwalshpng.itch.io/](https://davidwalshpng.itch.io/)
+- 👨‍💻 All of my game projects are available at [https://davidwalshpng.itch.io/](https://davidwalshpng.itch.io/)
 
 - 💬 Ask me about **game design, c#, c++, game engines**
 
