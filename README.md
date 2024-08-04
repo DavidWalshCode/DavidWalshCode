@@ -7,7 +7,7 @@
 
 - 📫 How to reach me **davidwalshpng@gmail.com**
 
-- ⚡ Fun fact **I love Magic: The Gathering**
+- ⚡ Fun fact **I love Magic: The Gathering and Dungeons and Dragons**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
