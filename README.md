@@ -3,7 +3,7 @@
 
 - 👨‍💻 All of my game projects are available at [https://davidwalshpng.itch.io/](https://davidwalshpng.itch.io/)
 
-- 💬 Ask me about **game design, c#, c++, game engines**
+- 💬 Ask me about **game design, c#, javascript, game engines**
 
 - 📫 How to reach me **davidwalshpng@gmail.com**
 
