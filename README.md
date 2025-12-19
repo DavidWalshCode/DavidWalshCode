@@ -3,9 +3,9 @@
 
 - 🔭 I’m currently working on **a survival horror game**
 
-- 👨‍💻 All of my projects are available at [davidwalshpng.itch.io](davidwalshpng.itch.io)
+- 👨‍💻 All of my game projects are available at [davidwalshpng.itch.io](davidwalshpng.itch.io)
 
-- 💬 Ask me about **game design, c#, javascript, game engines**
+- 💬 Ask me about **game design, c#, javascript, rust, and game engines**
 
 - 📫 How to reach me **davidwalshpng@gmail.com**
 
